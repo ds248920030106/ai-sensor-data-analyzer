@@ -1,5 +1,7 @@
 # AI-Assisted Sensor Data Analyzer
 
+[![Python CI](https://github.com/ds248920030106/ai-sensor-data-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/ds248920030106/ai-sensor-data-analyzer/actions/workflows/ci.yml)
+
 This project is a small AI-assisted Python tool for analyzing engineering sensor data. It reads sensor data from a CSV file, validates the required columns, calculates summary statistics, detects missing values and outliers, generates a markdown report, and saves a plot of sensor readings.
 
 The project was developed as a final project for a generative AI coding course. The goal is not only to build a working tool, but also to demonstrate how generative AI can support coding, debugging, testing, and documentation in an engineering workflow.
